@@ -1,0 +1,1 @@
+# Right now its just the logic and look of a basic-tetris game. I want to build out the UI and UX (ie score, box with the next tetromino,etc). The game can begins with the press of the start button. So far you can move the shapes in any direction and transform them.
